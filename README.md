@@ -10,3 +10,5 @@ To run OpenBTS, Asterisk, SipAuthServe and Smqueue services on Ubuntu 16.04:
 To run/stop service with ```systemctl``` execute ```systemctl start service_name``` or ```systemctl stop service_name```
 
 To start/stop all services, use ```openbts-start.sh``` and ```openbts-stop.sh```.
+
+Questions or comments may be directed to at maliksaad@knu.ac.kr or maliksaad84@gmail.com
